@@ -1,4 +1,4 @@
-# blinkkbd — Keyboard LED Blink Kernel Module
+# blinkkbd "Keyboard LED Blink Kernel Module"
 
 A Linux kernel module that blinks the Num Lock, Caps Lock, and Scroll Lock LEDs on a keyboard. Controlled entirely through `/proc/blinkkbd`. Written for CS430 Project 2.
 
