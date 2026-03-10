@@ -1,1 +1,0 @@
-savedcmd_/home/yeti/Desktop/KernelModule/KeyboardLight/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/yeti/Desktop/KernelModule/KeyboardLight/Module.symvers -T /home/yeti/Desktop/KernelModule/KeyboardLight/modules.order -i Module.symvers -e 

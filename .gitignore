@@ -5,7 +5,11 @@
 *.mod.c
 *.order
 *.symvers
+*.cmd
 .tmp_versions/
+
+# Claude IDE settings
+.claude/
 
 # Signing keys - keep private
 signing_key.pem
