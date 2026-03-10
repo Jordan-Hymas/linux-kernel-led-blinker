@@ -1,0 +1,1 @@
+savedcmd_/home/yeti/Desktop/KernelModule/KeyboardLight/blinkkbd.mod := printf '%s\n'   blinkkbd.o | awk '!x[$$0]++ { print("/home/yeti/Desktop/KernelModule/KeyboardLight/"$$0) }' > /home/yeti/Desktop/KernelModule/KeyboardLight/blinkkbd.mod

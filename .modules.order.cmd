@@ -1,0 +1,1 @@
+savedcmd_/home/yeti/Desktop/KernelModule/KeyboardLight/modules.order := {   echo /home/yeti/Desktop/KernelModule/KeyboardLight/blinkkbd.o; :; } > /home/yeti/Desktop/KernelModule/KeyboardLight/modules.order
